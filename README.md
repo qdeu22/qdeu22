@@ -34,6 +34,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
 </div>
+
+## 📆 Experience
+|        Type         |          Date           |                           Contents                           | Organizatio                                                  |
+| :-----------------: | :---------------------: | :----------------------------------------------------------: | :----------------------------------------------------------- |
+| Certificate  |       2023.06.09      | 자격 취득 : 정보처리기사                                | 한국산업인력공단|
+| `node.js + express.js`  |       2023.03.03 ~ 2023.06.09     | 그림 추측 게임(캐치마인드)                                | DEU|
 <!--
 **qdeu22/qdeu22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
