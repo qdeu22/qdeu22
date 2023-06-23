@@ -52,6 +52,7 @@
 | `java`  |       2022.04.18 ~ 2022.06.02     | [병원 관리 시스템](https://github.com/qdeu22/java-hospital-mysql)                              | DEU|
 | `PL/SQL`  |       2022.11.05 ~ 2022.12.02     | [무인 키오스크](https://github.com/qdeu22/proc-kiosk)                             | DEU|
 | `Linux`  |       2022.10.25 ~ 2022.11.22     |  [채팅 프로그램](https://github.com/qdeu22/qt-chatting)                           | DEU|
+| `java`  |       2022.10.15 ~ 2022.11.28     |  [실습실 예약 시스템](https://github.com/qdeu22/java-lab)                           | DEU|
 
 ## 🏃‍♂️ACTIVITIES **(활동)**
 |        Type         |          Date           |                           Contents                           | Organizatio                                                  |
